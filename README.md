@@ -37,8 +37,7 @@ Attack has ended........
 ```
 
 # Current Bugs or Issues
-(February 19, 2020): Currently, unless you view the project in an IDE, the audio does not seem to work.
-- Status: Currently looking for a fix.
+(March 23, 2020): None at this current moment.
 
 # Authors
 - Jason Galicia
