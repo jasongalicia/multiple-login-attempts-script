@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Tomorrow&display=swap');
+
+body {
+	background-color: #59A5D8;
+	font-family: 'Tomorrow';
+}
+
+.login-form {
+	background-color: #ffffff;
+	width: 300px;
+	padding: 30px;
+	border-radius: 20px;
+	margin: 30px auto;
+	margin-top: 200px;
+}
+
+.login-form small {
+	text-align: center;
+}
+
+button {
+	width: 100%;
+	background-color: #ffffff;
+	border-radius: 20px;
+	padding: 5px;
+	color: #59A5D8;
+	border: 1px solid #59A5D8;
+	transition: 0.2s;
+}
+
+button:hover {
+	color: #ffffff;
+	border: 1px solid #ffffff;
+	background-color: #59A5D8;
+	transition: 0.2s;
+}
+
+.verification-info {
+	margin: 30px auto;
+	width: 900px;
+	margin-top: 200px;
+}
+
+@media screen and (max-width: 480px) {
+	.login-form {
+		margin-top: 40px;
+   }
+
+   .verification-info {
+   		width: 300px; 
+   		margin-top: 40px;
+   }
+}
