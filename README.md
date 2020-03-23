@@ -40,7 +40,7 @@ Attack has ended........
 (March 23, 2020): None at this current moment.
 
 # Authors
-- Jason Galicia
+- Jason Anthony Galicia
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
